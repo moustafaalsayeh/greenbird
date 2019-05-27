@@ -1,0 +1,30 @@
+{
+    "remotePath": "./public_html/creative",
+    "host": "ftp.gfsd.us",
+    "username": "vscode@gfsd.us",
+    "password": "hx[*~F9u13)H",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "uploadOnSave": true,
+        "extensionsToInclude": [
+            ".php",
+            ".js",
+            ".css"
+        ],
+        "path": "./public_html/creative"
+    }
+}
